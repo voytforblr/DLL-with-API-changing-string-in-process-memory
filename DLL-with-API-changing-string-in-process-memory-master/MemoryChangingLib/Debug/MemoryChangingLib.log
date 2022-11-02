@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  GUI.cpp
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\GUI.cpp(31,6): warning C4101: hDC: неиспользованная локальная переменная
+  MemChanger.cpp
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\MemChanger.cpp(60,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\MemChanger.cpp(85,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\MemChanger.cpp(91,15): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\MemChanger.cpp(150,9): warning C4101: x: неиспользованная локальная переменная
+  Создание кода...
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\GUI.cpp(135): warning C4715: getInputStrings: значение возвращается не при всех путях выполнения
+D:\DLL-with-API-changing-string-in-process-memory-master\MemoryChangingLib\GUI.cpp(146): warning C4715: getWStrigFromWindow: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\DLL-with-API-changing-string-in-process-memory-master\Window\Debug\MemoryChangingLib.lib и объект D:\DLL-with-API-changing-string-in-process-memory-master\Window\Debug\MemoryChangingLib.exp
+  MemoryChangingLib.vcxproj -> D:\DLL-with-API-changing-string-in-process-memory-master\Window\Debug\MemoryChangingLib.dll
